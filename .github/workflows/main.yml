@@ -1,0 +1,13 @@
+name: Meu Primeiro CI
+
+on: [push]
+
+jobs:
+  verificacao:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixando o codigo
+        uses: actions/checkout@v4
+
+      - name: Teste de vida
+        run: echo "O servidor ligou e o CI funcionou!"
