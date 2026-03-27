@@ -226,7 +226,7 @@ Tipos de testes utilizados:
 Ferramentas:
 
 * Jest
-* React Testing Library
+* React Testing Library.
 
 ---
 
