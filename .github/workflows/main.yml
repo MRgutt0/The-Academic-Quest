@@ -1,4 +1,4 @@
-name: Meu Primeiro CI
+name: Config ci
 
 on: [push]
 
@@ -10,4 +10,4 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Teste de vida
-        run: echo "O servidor ligou e o CI funcionou!"
+        run: echo "O servidor ligado e CI Rodando!"
