@@ -234,11 +234,12 @@ Ferramentas:
 
 | Nome              | Função        |
 | ----------------- | ------------- |
-| Arthur Di Loretto | Desenvolvedor |
+| Arthur Di Loreto | Desenvolvedor |
 | João Gabriel      | Frontend      |
 | Erik Benevides    | Documentação  |
 | Guilherme         | UX/UI         |
 | Gabriel Beretta   | QA / Tester   |
+| William   | QA / Tester   |
 
 ---
 
